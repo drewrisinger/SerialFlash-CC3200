@@ -26,7 +26,7 @@
  */
 
 #include "SerialFlash.h"
-#include "util/crc16.h"
+//#include "util/crc16.h"
 
 /* On-chip SerialFlash file allocation data structures:
 
